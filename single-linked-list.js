@@ -3,7 +3,7 @@ function LinkedList() {
     var Node = function(element) {
         this.element = element;
         this.next = null;
-    }
+    };
     var length = 0;
     var head = null;
 
@@ -40,7 +40,7 @@ function LinkedList() {
                     current = current.next;
                 }
                 node.next = current;
-                previous.next = node;   
+                previous.next = node;
             }
             length++;
             return true;
@@ -93,7 +93,7 @@ function LinkedList() {
             }
         }
         return false;
-    }
+    };
 
     //remove from end
     this.remove = () => {
@@ -158,13 +158,13 @@ function LinkedList() {
     //head
     this.getHead = () => {
         return head;
-    }
+    };
 
     //end
     this.getTail = () => {
         var current = head;
         while (current.next) {
-            current = current.next
+            current = current.next;
         }
         return current;
     };
@@ -230,7 +230,3 @@ console.log("----------------------------------");
 
 console.log("(8) Try getTail ...... ");
 console.log("Tail is ......" + JSON.stringify(linkedList.getTail()));
-
-
-
-

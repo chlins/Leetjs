@@ -1,14 +1,14 @@
 function Stack() {
-    var data = new Array();
+    var data = [];
     this.Push = (d) => {
-        let index = data.length
+        let index = data.length;
         data[index] = d;
-    }
+    };
     this.Pop = () => {
         let last = data[data.length - 1];
-        data.pop()
-        return last
-    }
+        data.pop();
+        return last;
+    };
 }
 
 var stack = new Stack();
