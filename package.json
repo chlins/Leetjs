@@ -1,0 +1,19 @@
+{
+  "name": "leetjs",
+  "version": "1.0.0",
+  "description": "一些LeetCode题目的题解，持续更新，欢迎补充",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chlins/Leetjs.git"
+  },
+  "author": "chlins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chlins/Leetjs/issues"
+  },
+  "homepage": "https://github.com/chlins/Leetjs#readme"
+}
