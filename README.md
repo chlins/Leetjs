@@ -1,6 +1,6 @@
 ### Leetcode Solutions(by Javascript)
 
-一些LeetCode题目的题解，持续更新，欢迎补充
+一些LeetCode题目的汇集，持续更新，欢迎补充
 
 |序号|题目|分类|难度|
 |:-:|:-|:-: | :-: |
@@ -9,6 +9,6 @@
 
 Usage:
 
-`npm install jest -g`
+`yarn install`
 
-`npm jest`
+`yarn test`

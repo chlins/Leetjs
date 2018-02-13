@@ -4,16 +4,21 @@
   "description": "一些LeetCode题目的题解，持续更新，欢迎补充",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chlins/Leetjs.git"
-  },
+  "repository": "git+https://github.com/chlins/Leetjs.git",
   "author": "chlins",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/chlins/Leetjs/issues"
   },
-  "homepage": "https://github.com/chlins/Leetjs#readme"
+  "homepage": "https://github.com/chlins/Leetjs#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "regenerator-runtime": "^0.11.1"
+  },
+  "devDependencies": {
+    "babel-jest": "^22.2.2"
+  }
 }

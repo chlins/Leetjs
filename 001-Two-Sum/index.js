@@ -15,4 +15,4 @@ const twoSum = (givenArr, target) => {
   return [];
 };
 
-module.exports = twoSum;
+export default twoSum;
