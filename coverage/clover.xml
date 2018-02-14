@@ -1,18 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1518491782617" clover="3.2.0">
-  <project timestamp="1518491782617" name="All files">
-    <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="11" coveredelements="11" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1">
-      <file name="index.js" path="/Users/chlins/github/Leetjs/001-Two-Sum/index.js">
+<coverage generated="1518599195323" clover="3.2.0">
+  <project timestamp="1518599195324" name="All files">
+    <metrics statements="27" coveredstatements="27" conditionals="20" coveredconditionals="20" methods="3" coveredmethods="3" elements="50" coveredelements="50" complexity="0" loc="27" ncloc="27" packages="2" files="2" classes="2">
+      <package name="001-Two-Sum">
         <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-        <line num="6" count="1" type="stmt"/>
-        <line num="7" count="2" type="stmt"/>
-        <line num="8" count="2" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-        <line num="10" count="4" type="cond" truecount="2" falsecount="0"/>
-        <line num="11" count="1" type="stmt"/>
-        <line num="13" count="3" type="stmt"/>
-        <line num="15" count="1" type="stmt"/>
-      </file>
+        <file name="index.js" path="/Users/chlins/github/Leetjs/001-Two-Sum/index.js">
+          <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="7" count="2" type="stmt"/>
+          <line num="8" count="2" type="stmt"/>
+          <line num="9" count="2" type="stmt"/>
+          <line num="10" count="4" type="cond" truecount="2" falsecount="0"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="13" count="3" type="stmt"/>
+          <line num="15" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="002-Add-Two-Numbers">
+        <metrics statements="19" coveredstatements="19" conditionals="18" coveredconditionals="18" methods="2" coveredmethods="2"/>
+        <file name="index.js" path="/Users/chlins/github/Leetjs/002-Add-Two-Numbers/index.js">
+          <metrics statements="19" coveredstatements="19" conditionals="18" coveredconditionals="18" methods="2" coveredmethods="2"/>
+          <line num="15" count="23" type="stmt"/>
+          <line num="16" count="23" type="stmt"/>
+          <line num="19" count="1" type="stmt"/>
+          <line num="21" count="3" type="stmt"/>
+          <line num="23" count="3" type="stmt"/>
+          <line num="25" count="3" type="stmt"/>
+          <line num="27" count="3" type="cond" truecount="2" falsecount="0"/>
+          <line num="28" count="7" type="cond" truecount="4" falsecount="0"/>
+          <line num="29" count="7" type="cond" truecount="4" falsecount="0"/>
+          <line num="30" count="7" type="stmt"/>
+          <line num="31" count="7" type="cond" truecount="2" falsecount="0"/>
+          <line num="32" count="7" type="stmt"/>
+          <line num="33" count="7" type="stmt"/>
+          <line num="34" count="7" type="cond" truecount="2" falsecount="0"/>
+          <line num="35" count="7" type="cond" truecount="2" falsecount="0"/>
+          <line num="38" count="3" type="cond" truecount="2" falsecount="0"/>
+          <line num="39" count="1" type="stmt"/>
+          <line num="42" count="3" type="stmt"/>
+          <line num="43" count="3" type="stmt"/>
+        </file>
+      </package>
     </metrics>
   </project>
 </coverage>

@@ -5,7 +5,7 @@
 |序号|题目|分类|难度|
 |:-:|:-|:-: | :-: |
 |001|[Two Sum](./001-Two-Sum)|Algorithms|Easy|
-
+|002|[Add Two Numbers](./002-Add-Two-Numbers)|Algorithms|Easy|
 
 Usage:
 
