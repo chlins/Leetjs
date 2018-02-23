@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1518599195323" clover="3.2.0">
-  <project timestamp="1518599195324" name="All files">
-    <metrics statements="27" coveredstatements="27" conditionals="20" coveredconditionals="20" methods="3" coveredmethods="3" elements="50" coveredelements="50" complexity="0" loc="27" ncloc="27" packages="2" files="2" classes="2">
+<coverage generated="1519370961529" clover="3.2.0">
+  <project timestamp="1519370961529" name="All files">
+    <metrics statements="34" coveredstatements="34" conditionals="22" coveredconditionals="22" methods="5" coveredmethods="5" elements="61" coveredelements="61" complexity="0" loc="34" ncloc="34" packages="3" files="3" classes="3">
       <package name="001-Two-Sum">
         <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <file name="index.js" path="/Users/chlins/github/Leetjs/001-Two-Sum/index.js">
@@ -39,6 +39,19 @@
           <line num="39" count="1" type="stmt"/>
           <line num="42" count="3" type="stmt"/>
           <line num="43" count="3" type="stmt"/>
+        </file>
+      </package>
+      <package name="003-Longest-Substring-Without-Repeating-Characters">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <file name="index.js" path="/Users/chlins/github/Leetjs/003-Longest-Substring-Without-Repeating-Characters/index.js">
+          <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="3" type="stmt"/>
+          <line num="7" count="3" type="stmt"/>
+          <line num="9" count="3" type="stmt"/>
+          <line num="10" count="19" type="cond" truecount="2" falsecount="0"/>
+          <line num="11" count="19" type="stmt"/>
+          <line num="12" count="19" type="stmt"/>
         </file>
       </package>
     </metrics>

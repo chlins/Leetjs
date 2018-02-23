@@ -6,6 +6,7 @@
 |:-:|:-|:-: | :-: |
 |001|[Two Sum](./001-Two-Sum)|Algorithms|Easy|
 |002|[Add Two Numbers](./002-Add-Two-Numbers)|Algorithms|Easy|
+|003|[Longest Substring Without Repeating Characters](./003-Longest-Substring-Without-Repeating Characters)|Algorithms|Easy|
 
 Usage:
 
